@@ -13,7 +13,7 @@ console.log(surname)
 console.log(surname.charAt(3))
 console.log(surname.indexOf('y'))
 
-const newString=surname.substring(0,2)
+const newString=surname.substring(0,2)//before 2
 console.log(newString)
 
 const anotherString=surname.slice(0,4)

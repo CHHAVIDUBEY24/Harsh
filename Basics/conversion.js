@@ -41,3 +41,8 @@ let ef="";
 console.log(typeof ef);
 let fe=Boolean(ef);
 console.log(fe);
+
+let ev="hvbtb11**";
+console.log(typeof ev);
+let we=Boolean(ev);
+console.log(we);
