@@ -1,2 +1,2 @@
-# Harsh
-Harsh Kumar Kaithwas
+# Javascript
+Javascript basics
